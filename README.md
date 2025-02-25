@@ -1,1 +1,1 @@
-# Simple calculator
+# Random Background Color
